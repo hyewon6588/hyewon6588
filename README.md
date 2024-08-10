@@ -1,7 +1,7 @@
 <!--## Hi there 👋-->
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=3A4A51&fontColor=f7f5f5&fontSize=40&animation=blinking&text=Welcome%20to%20my%20space)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=3A4A51&fontColor=7ee9f5&fontSize=40&animation=blinking&text=Welcome%20to%20my%20space&desc=I'm%20Hyewon)
 </div>
 <!--
 **hyewon6588/hyewon6588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
