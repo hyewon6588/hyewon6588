@@ -2,16 +2,34 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=3A4A51&fontColor=87CEEB&fontSize=40&animation=blinking&text=Welcome%20to%20my%20space&desc=I'm%20Hyewon&descAlignY=70)
-</div>
 <br/>
 <br/>
 
+🌈 My Skills
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <!--
 🌈 My Skills
-Java, C#, JavaScript, React, Oracle, Python, MongoDB, Kotlin, CSS3, Linux, RedHat, Ubuntu, AWS, GCP, Git
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+Java, C#, JavaScript, React, Oracle, Python, MongoDB, HTML5, CSS3, Linux,  AWS, GCP, Git
 
-⭐ Tools I've used
-Notion, Jira, Eclipse, Discord, Slack, Virtual box, Jupyter Notebook
+⭐ I've used
+Notion, Jira, Eclipse, Discord, Slack, Virtual box, Jupyter NotebookRedHat, Ubuntu
 -->
 
 
@@ -26,5 +44,5 @@ Here are some ideas to get you started:
 - 💬 Feel free to ask me anything you want.
 - 📫 How to reach me: LinkedIn, Github, etc
 -->
-
+</div>
 
