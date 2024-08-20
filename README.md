@@ -23,13 +23,29 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 <img src="https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<br/>
+<br/>
+<br/>
+⭐ I've used
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
 <!--
 🌈 My Skills
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-Java, C#, JavaScript, React, Oracle, Python, MongoDB, HTML5, CSS3, Linux,  AWS, GCP, Git
+Java, C#, JavaScript, React, Oracle, Python, MongoDB, HTML5, CSS3, Linux,AWS, GCP, Git
 
 ⭐ I've used
-Notion, Jira, Eclipse, Discord, Slack, Virtual box, Jupyter NotebookRedHat, Ubuntu
+Notion, Jira, Eclipse, Slack, Virtual box, Jupyter Notebook,RedHat, Ubuntu
 -->
 
 
