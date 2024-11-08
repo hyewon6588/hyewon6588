@@ -26,6 +26,8 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
 <br/>
 <br/>
