@@ -1,4 +1,28 @@
-<!--## Hi there 👋-->
+<html lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="description" content="">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:image:alt" content="">
+
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <link rel="manifest" href="site.webmanifest">
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+
+  <!--## Hi there 👋-->
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=3A4A51&fontColor=87CEEB&fontSize=40&animation=blinking&text=Welcome%20to%20my%20space&desc=I'm%20Hyewon&descAlignY=70)
@@ -60,4 +84,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn, Github, etc
 -->
 </div>
+
+</body>
+
+</html>
 
